@@ -1,12 +1,14 @@
-## Info or something
+# Info or something
 
 Straight male, Any pronouns i do not care.
 
-I live in Thailand i speak Thai and English (And a few others non-fluently or still learning)
+I live in Thailand. I speak Thai and English (And a few others non-fluently or still learning)
 
-## Other info or something
-I do github sometimes
+## Programming Experience
+* Mostly use Python for my projects.
+* I also use Rust, Lua and JS for some of my projects.
+* C and C++ is workable but i won't use it unless i need low-level programming.
 
-I like github
+---
 
-Check out my website
+[Web Profile](https://gusza.xyz/gusza110811)
