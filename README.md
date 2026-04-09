@@ -1,5 +1,10 @@
 # Info or something
 
+I'm Augus.
+
+Also Gusza online.
+Pronounced [gasza&#720;] (GAS-zaa) in english or [kat&#794;sa&#720;&#743;&#745;] (KAT-saa) in thai
+
 Straight male, Any pronouns i do not care.
 
 I live in Thailand. I speak Thai and English (And a few others non-fluently or still learning)
