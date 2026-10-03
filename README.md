@@ -16,4 +16,4 @@ I live in Thailand. I speak Thai and English (And a few others non-fluently or s
 
 ---
 
-[Web Profile](https://gusza.xyz/gusza110811)
+[Web Profile](https://gusza.fyi/gusza110811)
