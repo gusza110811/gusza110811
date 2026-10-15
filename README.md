@@ -38,6 +38,4 @@ I live in Thailand. I speak Thai and English (And a few others non-fluently or s
         - Sciencing
         - Astronomy'ing (sometimes)
 
----
-
-[Web Profile](https://gusza.fyi)
+[![Web Profile](https://gusza.fyi/88x31.gif)](https://gusza.fyi)
